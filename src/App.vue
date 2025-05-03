@@ -1,11 +1,9 @@
 <script setup>
-import HelloWorld from './components/jsPDF.vue'
+import HelloWorld from "./components/jsPDF.vue";
 </script>
 
 <template>
-  <HelloWorld/>
+  <HelloWorld />
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
